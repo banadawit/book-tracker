@@ -27,7 +27,7 @@ A modern **React-based** application to track your reading list with **dark mode
 ---
 
 ## 📸 Screenshots  
-![Book Tracker App Screenshot](#)  
+![Book Tracker App Screenshot](public/screenshots/book-tracker-preview.png)  
 
 ---
 
