@@ -35,5 +35,5 @@ A modern **React-based** application to track your reading list with **dark mode
 
 Clone the repository:  
 ```sh
-git clone https://github.com/your-username/book-tracker.git
+git clone https://github.com/banadawit/book-tracker.git
 cd book-tracker
