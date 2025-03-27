@@ -2,7 +2,7 @@
 
 A modern **React-based** application to track your reading list with **dark mode, filters, and animations**.  
 
-🚀 **Live Demo:** [Netlify Link](https://libro-log.netlify.app/) 
+🚀 **Live Demo:** <a href="https://libro-log.netlify.app/" target="_blank">Netlify Link</a>
 
 ---
 
